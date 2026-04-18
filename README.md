@@ -10,7 +10,7 @@
 <p align="center">
   <img src="IMG_3566.png" width="650px">
 </p>
-야학교 입학식 모습
+<p align="center">야학교 입학식 모습</p>
 
 
 <p align="center">
@@ -19,9 +19,10 @@
 <p align="center">
   <img src="사진2.png" width="650px">
 </p>
-야학교 수업 모습
+<p align="center">야학교 수업 모습</p>
 
 
 <p align="center">
   <img src="임명장.png" width="650px">
 </p>
+<p align="center">야학교 임명장</p>
